@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+    /* list-style: inside; */
+    font-size: 25px;
+    background-color: lightgrey;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    font-size: 60px;
+}
+
+h2{
+    font-size: 35px;
+}
+
+.summary{
+    list-style: inside;
+}
+
+.ingredients li, .steps li{
+    text-align: start;
+}
